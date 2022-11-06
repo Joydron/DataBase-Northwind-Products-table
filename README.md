@@ -6,7 +6,7 @@
 
 Программа осуществляет поиск продуктов по наименованию, а также сохраняет выбранные строки в блокнот.
 
-*В случае, если не установлена базовая БД в Visual Studio
+## В случае, если не установлена базовая БД в Visual Studio
 
 Скачать скрипт для подключения: 
 https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql
