@@ -1,0 +1,11 @@
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\bin\Debug\DataBase(Northwind) - Products table.exe.config
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\bin\Debug\DataBase(Northwind) - Products table.exe
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\bin\Debug\DataBase(Northwind) - Products table.pdb
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\obj\Debug\DataBase(Northwind) - Products table.csproj.AssemblyReference.cache
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\obj\Debug\DataBase(Northwind) - Products table.csproj.SuggestedBindingRedirects.cache
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\obj\Debug\DataBase_Northwind____Products_table.ProductsTable.resources
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\obj\Debug\DataBase_Northwind____Products_table.Properties.Resources.resources
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\obj\Debug\DataBase(Northwind) - Products table.csproj.GenerateResource.cache
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\obj\Debug\DataBase(Northwind) - Products table.csproj.CoreCompileInputs.cache
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\obj\Debug\DataBase(Northwind) - Products table.exe
+D:\Codes VS\08 portfolio\DataBase(Northwind) - Products table\DataBase(Northwind) - Products table\obj\Debug\DataBase(Northwind) - Products table.pdb
