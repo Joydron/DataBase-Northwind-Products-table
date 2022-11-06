@@ -2,6 +2,7 @@
 Работа с базовой БД "Nordwind" на основе таблицы Продуктов
 
 ## Gif отображение таблицы
+![Gif_base](https://user-images.githubusercontent.com/108891719/200177359-90e51ceb-be80-4ca6-9289-4fd29d7a7580.gif)
 
 ! [gifTable](Gif/Gif_base.gif)
 
